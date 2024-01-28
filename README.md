@@ -74,36 +74,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-useState se re render htota h component and it saves the last updated value
-useEffect jab jab voh page render hoga tb tb voh function print hoga
-![jab jab home se about and about se home pe shift to mount unmounting chalti rahrgi. unmounting means cleanup](image.png)
-
-what is promise, async, await? react.srictmode? target={"blank"} _black what diff?
-
-![i.x jo bhi fetch karna ho data se with link provided in useEffect](image-1.png)
-
-![to make all things in center](image-2.png)
-
-![sab cards ko aligend rakhne](image-3.png)
-
-COINGECKO API (endpoints aa jayenge for coins)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
 npm i react-router-dom axios chart.js react-chartjs-2
 npm i react-icons
